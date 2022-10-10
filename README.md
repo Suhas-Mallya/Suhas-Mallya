@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development(MERN)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Suhas-Mallya?tab=repositories]
+- 👨‍💻 checkout all my [projects](https://github.com/Suhas-Mallya?tab=repositories)
 
 - 📫 How to reach me **suhasmallya15@gmail.com**
 
