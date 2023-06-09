@@ -3,9 +3,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=Suhas-Mallya&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-- 🔭 I’m currently working on **MediaMasti Application** 
-
-- 🌱 I’m currently learning **Full Stack Web Development(MERN)**
+- 🌱 I’m currently learning **ASP.NET CORE with Angular**
 
 - 👨‍💻 checkout all my [projects](https://github.com/Suhas-Mallya?tab=repositories)
 
