@@ -3,7 +3,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=Suhas-Mallya&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-- 🌱 I’m currently learning **ASP.NET CORE with Angular**
+- 🌱 I’m working on **Python application development**
 
 - 👨‍💻 checkout all my [projects](https://github.com/Suhas-Mallya?tab=repositories)
 
